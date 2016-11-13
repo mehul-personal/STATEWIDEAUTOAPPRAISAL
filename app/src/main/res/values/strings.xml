@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">STATEWIDE AUTO APPRAISAL</string>
+    <string name="str_top_label">Please fill out the following form and attache Images of your car</string>
+    <string name="str_name">Name</string>
+    <string name="str_phone">Phone</string>
+    <string name="str_email">Email</string>
+    <string name="str_comments">Comments</string>
+    <string name="str_year">Year</string>
+    <string name="str_make">Make</string>
+    <string name="str_model">Model</string>
+    <string name="str_image_guideline_view">Image Guideline View</string>
+    <string name="str_right_front">Right Front</string>
+    <string name="str_left_front">Left Front</string>
+    <string name="str_right_rear">Right Rear</string>
+    <string name="str_left_rear">Left Rear</string>
+    <string name="str_license_plate">License Plate</string>
+    <string name="str_vin_number">Vin Number</string>
+    <string name="str_mileage">Mileage</string>
+    <string name="str_interior">Interior(From Left side Door Open)</string>
+    <string name="str_damages">Damages</string>
+    <string name="str_upload_image">Upload Image</string>
+    <string name="str_submit">Submit</string>
+</resources>
